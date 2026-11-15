@@ -275,6 +275,10 @@ Further improvements will focus on production planning, narrative continuity, ri
 ## 👥 Team
 
 **Team Leader:** Kuntal Banerjee
+**Team Members:**
+Debopriyo Nath
+Debosmita Seal
+Debojit Neogy
 
 *Add the remaining team members and their contributions here.*
 
